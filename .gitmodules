@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "eaf"]
-	path = eaf
-	url = https://github.com/mlopez-ibanez/eaf
-	shallow = true
-	registered = true
 [submodule "irace"]
 	path = irace
 	url = https://github.com/mlopez-ibanez/irace

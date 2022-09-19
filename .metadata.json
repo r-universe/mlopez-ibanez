@@ -1,9 +1,5 @@
 [
   {
-    "package": "eaf",
-    "oncran": true
-  },
-  {
     "package": "irace",
     "oncran": true
   }
