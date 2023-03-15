@@ -1,10 +1,10 @@
 [
   {
-    "package": "eaf",
+    "package": "irace",
     "oncran": true
   },
   {
-    "package": "irace",
+    "package": "eaf",
     "oncran": true
   }
 ]
